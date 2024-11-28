@@ -1,0 +1,5 @@
+Epoch: 50000, index: 45, PSNR: tensor([22.0577])
+Epoch: 50000, index: 46, PSNR: tensor([21.4016])
+Epoch: 50000, index: 47, PSNR: tensor([21.3009])
+Epoch: 50000, index: 48, PSNR: tensor([21.5068])
+Epoch: 50000, index: 49, PSNR: tensor([24.2560])
